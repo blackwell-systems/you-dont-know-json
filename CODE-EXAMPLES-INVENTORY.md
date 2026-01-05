@@ -256,7 +256,7 @@ Complete catalog of all code examples that need to be created for the companion 
 - **File:** `chapter-05-binary-apis/python/01-messagepack.py`
 - **Description:** MessagePack with Python
 - **Dependencies:** `msgpack`
-- **Status:** ⏳
+- **Status:** ✅ COMPLETED
 - **Book reference:** Lines ~203-230
 
 #### 5.5 Rust MessagePack 📝
@@ -1011,9 +1011,9 @@ Complete catalog of all code examples that need to be created for the companion 
 - **LOW (📝):** 39 examples - Supplementary illustrations
 
 ### By Status:
-- **Complete (✅):** 12 examples
+- **Complete (✅):** 13 examples
 - **In Progress (🔨):** 0 examples
-- **Planned (⏳):** 124 examples
+- **Planned (⏳):** 123 examples
 - **Blocked (🔴):** 24 examples - Need PostgreSQL, MongoDB, Redis, or Kafka
 
 ### Blocked Examples Requiring Services:
