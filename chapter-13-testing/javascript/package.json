@@ -1,0 +1,20 @@
+{
+  "name": "chapter-13-testing-examples",
+  "version": "1.0.0",
+  "description": "Testing JSON Systems examples from You Don't Know JSON - Chapter 13",
+  "scripts": {
+    "test": "jest",
+    "test:property": "jest 02-property-testing.js"
+  },
+  "keywords": ["testing", "property-based-testing", "json-schema", "fast-check"],
+  "author": "Dayna Blackwell",
+  "license": "MIT",
+  "dependencies": {
+    "ajv": "^8.12.0",
+    "ajv-formats": "^2.1.1",
+    "fast-check": "^3.15.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

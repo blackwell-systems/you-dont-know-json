@@ -1,0 +1,13 @@
+{
+  "name": "chapter-07-json-lines-examples",
+  "version": "1.0.0",
+  "description": "JSON Lines streaming examples from You Don't Know JSON - Chapter 7",
+  "scripts": {
+    "parser": "node 01-parser.js",
+    "pipeline": "node 02-log-pipeline.js"
+  },
+  "keywords": ["json-lines", "jsonl", "ndjson", "streaming"],
+  "author": "Dayna Blackwell",
+  "license": "MIT",
+  "dependencies": {}
+}

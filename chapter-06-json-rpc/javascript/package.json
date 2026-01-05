@@ -1,0 +1,17 @@
+{
+  "name": "chapter-06-json-rpc-examples",
+  "version": "1.0.0",
+  "description": "JSON-RPC 2.0 server and client examples from You Don't Know JSON - Chapter 6",
+  "scripts": {
+    "server": "node 01-server.js",
+    "client": "node 02-client.js",
+    "test": "node test-rpc.js"
+  },
+  "keywords": ["json-rpc", "rpc", "api"],
+  "author": "Dayna Blackwell",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.0"
+  }
+}
