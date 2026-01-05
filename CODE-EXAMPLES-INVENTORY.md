@@ -329,8 +329,8 @@ Complete catalog of all code examples that need to be created for the companion 
 #### 6.3 JSON-RPC Batch Requests (JavaScript) 📌
 - **File:** `chapter-06-json-rpc/javascript/03-batch-requests.js`
 - **Description:** Batch request handling
-- **Dependencies:** None (built-in)
-- **Status:** ⏳
+- **Dependencies:** express
+- **Status:** ✅ COMPLETED
 - **Book reference:** Lines ~1050-1150
 
 #### 6.4 Go JSON-RPC Server 📌
@@ -1011,9 +1011,9 @@ Complete catalog of all code examples that need to be created for the companion 
 - **LOW (📝):** 39 examples - Supplementary illustrations
 
 ### By Status:
-- **Complete (✅):** 11 examples
+- **Complete (✅):** 12 examples
 - **In Progress (🔨):** 0 examples
-- **Planned (⏳):** 125 examples
+- **Planned (⏳):** 124 examples
 - **Blocked (🔴):** 24 examples - Need PostgreSQL, MongoDB, Redis, or Kafka
 
 ### Blocked Examples Requiring Services:

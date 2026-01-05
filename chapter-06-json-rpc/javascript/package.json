@@ -5,6 +5,7 @@
   "scripts": {
     "server": "node 01-server.js",
     "client": "node 02-client.js",
+    "batch": "node 03-batch-requests.js",
     "test": "node test-rpc.js"
   },
   "keywords": ["json-rpc", "rpc", "api"],
