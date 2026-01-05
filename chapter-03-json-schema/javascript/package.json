@@ -2,22 +2,16 @@
   "name": "chapter-03-json-schema-examples",
   "version": "1.0.0",
   "description": "JSON Schema validation examples from You Don't Know JSON - Chapter 3",
-  "main": "02-validation-system.js",
   "scripts": {
-    "test": "node 02-validation-system.js",
-    "validation": "node 02-validation-system.js",
-    "express": "node 03-express-validation.js"
+    "basic": "node 01-basic-validation.js",
+    "validation": "node 02-validation-system.js"
   },
-  "keywords": ["json", "schema", "validation", "ajv"],
+  "keywords": ["json-schema", "validation", "ajv"],
   "author": "Dayna Blackwell",
   "license": "MIT",
   "dependencies": {
     "ajv": "^8.12.0",
     "ajv-formats": "^2.1.1",
-    "ajv-errors": "^3.0.0",
-    "express": "^4.18.2"
-  },
-  "devDependencies": {
-    "vitest": "^1.0.0"
+    "ajv-errors": "^3.0.0"
   }
 }

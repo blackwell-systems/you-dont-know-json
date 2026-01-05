@@ -1,0 +1,14 @@
+{
+  "name": "chapter-12-data-pipelines-examples",
+  "version": "1.0.0",
+  "description": "Data pipeline examples from You Don't Know JSON - Chapter 12",
+  "scripts": {
+    "transform": "node 01-stream-transformer.js"
+  },
+  "keywords": ["streaming", "etl", "data-pipelines", "validation"],
+  "author": "Dayna Blackwell",
+  "license": "MIT",
+  "dependencies": {
+    "ajv": "^8.12.0"
+  }
+}

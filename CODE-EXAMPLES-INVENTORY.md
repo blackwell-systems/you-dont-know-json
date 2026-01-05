@@ -26,7 +26,7 @@ Complete catalog of all code examples that need to be created for the companion 
 - **File:** `chapter-03-json-schema/javascript/01-basic-validation.js`
 - **Description:** Simple Ajv validation with user schema
 - **Dependencies:** `ajv`
-- **Status:** ⏳
+- **Status:** ✅ COMPLETED
 - **Book reference:** Lines ~690-720
 
 #### 3.2 Complete Validation System (JavaScript) 🔥
@@ -235,21 +235,21 @@ Complete catalog of all code examples that need to be created for the companion 
 - **File:** `chapter-05-binary-apis/javascript/01-messagepack-basic.js`
 - **Description:** Basic MessagePack encode/decode
 - **Dependencies:** `msgpack5`
-- **Status:** ⏳
+- **Status:** ✅ COMPLETED
 - **Book reference:** Lines ~130-160
 
 #### 5.2 MessagePack API Server (JavaScript) 📌
 - **File:** `chapter-05-binary-apis/javascript/02-messagepack-api.js`
 - **Description:** Express API with MessagePack responses
 - **Dependencies:** `express`, `msgpack5`
-- **Status:** ⏳
+- **Status:** ✅ COMPLETED
 - **Book reference:** Lines ~350-420
 
 #### 5.3 Go MessagePack 📌
 - **File:** `chapter-05-binary-apis/go/01-messagepack/main.go`
 - **Description:** MessagePack encoding in Go
 - **Dependencies:** `github.com/vmihailenco/msgpack/v5`
-- **Status:** ⏳
+- **Status:** ✅ COMPLETED
 - **Book reference:** Lines ~160-200
 
 #### 5.4 Python MessagePack 📌
@@ -620,7 +620,7 @@ Complete catalog of all code examples that need to be created for the companion 
 - **File:** `chapter-12-data-pipelines/javascript/01-stream-transformer.js`
 - **Description:** Transform streams with validation
 - **Dependencies:** `stream`, `ajv`
-- **Status:** ⏳
+- **Status:** ✅ COMPLETED
 - **Book reference:** Lines ~47-242
 
 #### 12.2 Checkpoint Pattern (JavaScript) 📌

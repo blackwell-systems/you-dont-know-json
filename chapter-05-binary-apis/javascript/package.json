@@ -1,0 +1,16 @@
+{
+  "name": "chapter-05-binary-apis-examples",
+  "version": "1.0.0",
+  "description": "MessagePack and binary format examples from You Don't Know JSON - Chapter 5",
+  "scripts": {
+    "messagepack": "node 01-messagepack-basic.js",
+    "server": "node 02-messagepack-api.js"
+  },
+  "keywords": ["messagepack", "binary", "api", "compression"],
+  "author": "Dayna Blackwell",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "msgpack5": "^6.0.2"
+  }
+}
