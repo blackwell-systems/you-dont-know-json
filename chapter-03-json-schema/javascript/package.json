@@ -5,7 +5,8 @@
   "scripts": {
     "basic": "node 01-basic-validation.js",
     "validation": "node 02-validation-system.js",
-    "server": "node 03-express-validation.js"
+    "server": "node 03-express-validation.js",
+    "evolution": "node 05-schema-evolution.js"
   },
   "keywords": ["json-schema", "validation", "ajv"],
   "author": "Dayna Blackwell",
