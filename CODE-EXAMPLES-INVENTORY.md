@@ -41,21 +41,21 @@ Complete catalog of all code examples that need to be created for the companion 
 - **File:** `chapter-03-json-schema/javascript/03-express-validation.js`
 - **Description:** Validation middleware for Express API
 - **Dependencies:** `express`, `ajv`, `ajv-formats`
-- **Status:** ⏳
+- **Status:** ✅ COMPLETED
 - **Book reference:** Lines ~750-800
 
 #### 3.4 Go Schema Validation 📌
 - **File:** `chapter-03-json-schema/go/01-basic-validation/main.go`
 - **Description:** gojsonschema validation example
 - **Dependencies:** `github.com/xeipuuv/gojsonschema`
-- **Status:** ⏳
+- **Status:** ✅ COMPLETED
 - **Book reference:** Lines ~800-850
 
 #### 3.5 Go Struct Validation 📌
 - **File:** `chapter-03-json-schema/go/02-struct-validation/main.go`
 - **Description:** Tag-based validation with go-playground/validator
 - **Dependencies:** `github.com/go-playground/validator/v10`
-- **Status:** ⏳
+- **Status:** ✅ COMPLETED
 - **Book reference:** Lines ~850-900
 
 #### 3.6 Python Validation (jsonschema) 📌
@@ -1011,9 +1011,9 @@ Complete catalog of all code examples that need to be created for the companion 
 - **LOW (📝):** 39 examples - Supplementary illustrations
 
 ### By Status:
-- **Complete (✅):** 0 examples
+- **Complete (✅):** 11 examples
 - **In Progress (🔨):** 0 examples
-- **Planned (⏳):** 136 examples
+- **Planned (⏳):** 125 examples
 - **Blocked (🔴):** 24 examples - Need PostgreSQL, MongoDB, Redis, or Kafka
 
 ### Blocked Examples Requiring Services:

@@ -4,7 +4,8 @@
   "description": "JSON Schema validation examples from You Don't Know JSON - Chapter 3",
   "scripts": {
     "basic": "node 01-basic-validation.js",
-    "validation": "node 02-validation-system.js"
+    "validation": "node 02-validation-system.js",
+    "server": "node 03-express-validation.js"
   },
   "keywords": ["json-schema", "validation", "ajv"],
   "author": "Dayna Blackwell",
@@ -12,6 +13,7 @@
   "dependencies": {
     "ajv": "^8.12.0",
     "ajv-formats": "^2.1.1",
-    "ajv-errors": "^3.0.0"
+    "ajv-errors": "^3.0.0",
+    "express": "^4.18.2"
   }
 }
